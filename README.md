@@ -1,2 +1,1 @@
-# todoApp-main
-todo app
+# todo App
